@@ -3,4 +3,7 @@
 <li><a href="https://github.com/hmofrad/etc/tree/master/automake"  target="_blank">Automake Compile On Write (ACOW)</a> </li>
 <li><a href="https://github.com/hmofrad/etc/tree/master/mantevo"  target="_blank">Mantevo HPC benchmark</a> </li>
 <li><a href="https://github.com/hmofrad/etc/tree/master/coccinelle"  target="_blank">Coccinelle parallel execution</a> </li>
+<li><a href="https://github.com/hmofrad/etc/tree/master/KernelScanner"  target="_blank">Kernel scanner</a> </li>
 </ol>
+
+
